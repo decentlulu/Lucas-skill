@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lucas外脑"
+  short_description: "融合战略、组织、经营、增长与纵横捭阖的高级决策顾问"
+  default_prompt: "Use $lucas-external-brain to rigorously analyze this complex management problem and propose an actionable path forward."
